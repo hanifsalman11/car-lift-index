@@ -31,5 +31,38 @@
     "slab_in": 4.0,
     "trq": 75,
     "date": "2026-11-11"
+  },
+  {
+    "lift_name": "MaxJax M7K (7,000 Lb) Portable Low-Ceiling 2-Post Lift",
+    "slug": "maxjax-m7k-7000-lb-portable-low-ceiling-2-post-lift-slab-clearance-calculator",
+    "title": "MaxJax M7K (7,000 Lb) Portable Low-Ceiling 2-Post Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (106\" / 8.8 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 20A breaker for MaxJax M7K (7,000 Lb) Portable Low-Ceiling 2-Post Lift.",
+    "cap_lbs": 7000,
+    "ceil_ft": 8.8,
+    "slab_in": 4.25,
+    "trq": 90,
+    "date": "2026-11-11"
+  },
+  {
+    "lift_name": "Atlas BP8000 & PV-10P (8,000 / 10,000 Lb) Baseplate 2-Post",
+    "slug": "atlas-bp8000-pv-10p-8000-10000-lb-baseplate-2-post-slab-clearance-calculator",
+    "title": "Atlas BP8000 & PV-10P (8,000 / 10,000 Lb) Baseplate 2-Post Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (112\" / 9.3 ft), ACI 318 concrete slab thickness (4.0\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for Atlas BP8000 & PV-10P (8,000 / 10,000 Lb) Baseplate 2-Post.",
+    "cap_lbs": 9000,
+    "ceil_ft": 9.3,
+    "slab_in": 4.0,
+    "trq": 90,
+    "date": "2026-11-11"
+  },
+  {
+    "lift_name": "Atlas 9KOH (9,000 Lb) Overhead Clearfloor 2-Post Lift",
+    "slug": "atlas-9koh-9000-lb-overhead-clearfloor-2-post-lift-slab-clearance-calculator",
+    "title": "Atlas 9KOH (9,000 Lb) Overhead Clearfloor 2-Post Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (144\" / 12.0 ft), ACI 318 concrete slab thickness (4.0\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for Atlas 9KOH (9,000 Lb) Overhead Clearfloor 2-Post Lift.",
+    "cap_lbs": 9000,
+    "ceil_ft": 12.0,
+    "slab_in": 4.0,
+    "trq": 90,
+    "date": "2026-11-11"
   }
 ]
