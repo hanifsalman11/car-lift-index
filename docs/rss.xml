@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CarLiftSlabIndex Automotive Car Lift Ceiling & Concrete Slab Database</title>
+    <link>https://hanifsalman11.github.io/car-lift-index/</link>
+    <description>Interactive 2-Post & 4-Post Car Lift Ceiling Clearance, Concrete Slab & Anchor Torque Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/car-lift-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>BendPak HD-9 & HD-9XW (9,000 Lb) 4-Post Storage Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/car-lift-index/bendpak-hd-9-hd-9xw-9000-lb-4-post-storage-lift-slab-clearance-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/car-lift-index/bendpak-hd-9-hd-9xw-9000-lb-4-post-storage-lift-slab-clearance-calculator.html</guid>
+      <description>Calculate exact garage ceiling clearance (130" / 10.8 ft), ACI 318 concrete slab thickness (4.0" @ 3,000 PSI), 75 ft-lb anchor torque, and 240V 30A breaker for BendPak HD-9 & HD-9XW (9,000 Lb) 4-Post Storage Lift.</description>
+    </item>
+    <item>
+      <title>BendPak GP-7LCS (7,000 Lb) Low-Ceiling 2-Post Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/car-lift-index/bendpak-gp-7lcs-7000-lb-low-ceiling-2-post-lift-slab-clearance-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/car-lift-index/bendpak-gp-7lcs-7000-lb-low-ceiling-2-post-lift-slab-clearance-calculator.html</guid>
+      <description>Calculate exact garage ceiling clearance (108" / 9.0 ft), ACI 318 concrete slab thickness (4.0" @ 3,000 PSI), 85 ft-lb anchor torque, and 240V 30A breaker for BendPak GP-7LCS (7,000 Lb) Low-Ceiling 2-Post Lift.</description>
+    </item>
+    <item>
+      <title>BendPak XPR-10AS (10,000 Lb) Clearfloor 2-Post Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/car-lift-index/bendpak-xpr-10as-10000-lb-clearfloor-2-post-lift-slab-clearance-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/car-lift-index/bendpak-xpr-10as-10000-lb-clearfloor-2-post-lift-slab-clearance-calculator.html</guid>
+      <description>Calculate exact garage ceiling clearance (145" / 12.1 ft), ACI 318 concrete slab thickness (4.25" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for BendPak XPR-10AS (10,000 Lb) Clearfloor 2-Post Lift.</description>
+    </item>
+  </channel>
+</rss>

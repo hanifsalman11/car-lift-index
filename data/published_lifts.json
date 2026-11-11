@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "lift_name": "BendPak XPR-10AS (10,000 Lb) Clearfloor 2-Post Lift",
+    "slug": "bendpak-xpr-10as-10000-lb-clearfloor-2-post-lift-slab-clearance-calculator",
+    "title": "BendPak XPR-10AS (10,000 Lb) Clearfloor 2-Post Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (145\" / 12.1 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for BendPak XPR-10AS (10,000 Lb) Clearfloor 2-Post Lift.",
+    "cap_lbs": 10000,
+    "ceil_ft": 12.1,
+    "slab_in": 4.25,
+    "trq": 90,
+    "date": "2026-11-11"
+  },
+  {
+    "lift_name": "BendPak GP-7LCS (7,000 Lb) Low-Ceiling 2-Post Lift",
+    "slug": "bendpak-gp-7lcs-7000-lb-low-ceiling-2-post-lift-slab-clearance-calculator",
+    "title": "BendPak GP-7LCS (7,000 Lb) Low-Ceiling 2-Post Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (108\" / 9.0 ft), ACI 318 concrete slab thickness (4.0\" @ 3,000 PSI), 85 ft-lb anchor torque, and 240V 30A breaker for BendPak GP-7LCS (7,000 Lb) Low-Ceiling 2-Post Lift.",
+    "cap_lbs": 7000,
+    "ceil_ft": 9.0,
+    "slab_in": 4.0,
+    "trq": 85,
+    "date": "2026-11-11"
+  },
+  {
+    "lift_name": "BendPak HD-9 & HD-9XW (9,000 Lb) 4-Post Storage Lift",
+    "slug": "bendpak-hd-9-hd-9xw-9000-lb-4-post-storage-lift-slab-clearance-calculator",
+    "title": "BendPak HD-9 & HD-9XW (9,000 Lb) 4-Post Storage Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (130\" / 10.8 ft), ACI 318 concrete slab thickness (4.0\" @ 3,000 PSI), 75 ft-lb anchor torque, and 240V 30A breaker for BendPak HD-9 & HD-9XW (9,000 Lb) 4-Post Storage Lift.",
+    "cap_lbs": 9000,
+    "ceil_ft": 10.8,
+    "slab_in": 4.0,
+    "trq": 75,
+    "date": "2026-11-11"
+  }
+]
