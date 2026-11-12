@@ -130,5 +130,38 @@
     "slab_in": 4.0,
     "trq": 90,
     "date": "2026-11-12"
+  },
+  {
+    "lift_name": "Challenger CL10V3 (10,000 Lb) Versymmetric 2-Post Lift",
+    "slug": "challenger-cl10v3-10000-lb-versymmetric-2-post-lift-slab-clearance-calculator",
+    "title": "Challenger CL10V3 (10,000 Lb) Versymmetric 2-Post Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (144\" / 12.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 110 ft-lb anchor torque, and 240V 30A breaker for Challenger CL10V3 (10,000 Lb) Versymmetric 2-Post Lift.",
+    "cap_lbs": 10000,
+    "ceil_ft": 12.0,
+    "slab_in": 4.25,
+    "trq": 110,
+    "date": "2026-11-12"
+  },
+  {
+    "lift_name": "Rotary SPOA10 (10,000 Lb) Asymmetric 2-Post Shop Lift",
+    "slug": "rotary-spoa10-10000-lb-asymmetric-2-post-shop-lift-slab-clearance-calculator",
+    "title": "Rotary SPOA10 (10,000 Lb) Asymmetric 2-Post Shop Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (142\" / 11.8 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 110 ft-lb anchor torque, and 240V 30A breaker for Rotary SPOA10 (10,000 Lb) Asymmetric 2-Post Shop Lift.",
+    "cap_lbs": 10000,
+    "ceil_ft": 11.8,
+    "slab_in": 4.25,
+    "trq": 110,
+    "date": "2026-11-12"
+  },
+  {
+    "lift_name": "Rotary SPO12 & BendPak XPR-12FDL (12,000 Lb) Truck Lift",
+    "slug": "rotary-spo12-bendpak-xpr-12fdl-12000-lb-truck-lift-slab-clearance-calculator",
+    "title": "Rotary SPO12 & BendPak XPR-12FDL (12,000 Lb) Truck Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (166\" / 13.8 ft), ACI 318 concrete slab thickness (6.0\" @ 3,500 PSI), 110 ft-lb anchor torque, and 240V 30A breaker for Rotary SPO12 & BendPak XPR-12FDL (12,000 Lb) Truck Lift.",
+    "cap_lbs": 12000,
+    "ceil_ft": 13.8,
+    "slab_in": 6.0,
+    "trq": 110,
+    "date": "2026-11-12"
   }
 ]
