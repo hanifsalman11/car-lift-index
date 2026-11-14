@@ -295,5 +295,38 @@
     "slab_in": 4.25,
     "trq": 90,
     "date": "2026-11-14"
+  },
+  {
+    "lift_name": "3/4\" × 5.5\" Wedge Anchor Bolt Embedment & Concrete PSI",
+    "slug": "34-55-wedge-anchor-bolt-embedment-concrete-psi-slab-clearance-calculator",
+    "title": "3/4\" × 5.5\" Wedge Anchor Bolt Embedment & Concrete PSI Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (144\" / 12.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 95 ft-lb anchor torque, and 240V 30A breaker for 3/4\" × 5.5\" Wedge Anchor Bolt Embedment & Concrete PSI.",
+    "cap_lbs": 10000,
+    "ceil_ft": 12.0,
+    "slab_in": 4.25,
+    "trq": 95,
+    "date": "2026-11-14"
+  },
+  {
+    "lift_name": "4-Inch (3,000 PSI) vs 6-Inch (3,500 PSI) Concrete Slab Lift",
+    "slug": "4-inch-3000-psi-vs-6-inch-3500-psi-concrete-slab-lift-slab-clearance-calculator",
+    "title": "4-Inch (3,000 PSI) vs 6-Inch (3,500 PSI) Concrete Slab Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (144\" / 12.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 95 ft-lb anchor torque, and 240V 30A breaker for 4-Inch (3,000 PSI) vs 6-Inch (3,500 PSI) Concrete Slab Lift.",
+    "cap_lbs": 10000,
+    "ceil_ft": 12.0,
+    "slab_in": 4.25,
+    "trq": 95,
+    "date": "2026-11-14"
+  },
+  {
+    "lift_name": "Asymmetric vs Symmetric 2-Post Lift Arm Center-of-Gravity",
+    "slug": "asymmetric-vs-symmetric-2-post-lift-arm-center-of-gravity-slab-clearance-calculator",
+    "title": "Asymmetric vs Symmetric 2-Post Lift Arm Center-of-Gravity Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (144\" / 12.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 95 ft-lb anchor torque, and 240V 30A breaker for Asymmetric vs Symmetric 2-Post Lift Arm Center-of-Gravity.",
+    "cap_lbs": 10000,
+    "ceil_ft": 12.0,
+    "slab_in": 4.25,
+    "trq": 95,
+    "date": "2026-11-14"
   }
 ]
