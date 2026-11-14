@@ -262,5 +262,38 @@
     "slab_in": 6.0,
     "trq": 110,
     "date": "2026-11-14"
+  },
+  {
+    "lift_name": "Stacking Two Sports Cars (Corvette / Porsche) on 4-Post Lift",
+    "slug": "stacking-two-sports-cars-corvette-porsche-on-4-post-lift-slab-clearance-calculator",
+    "title": "Stacking Two Sports Cars (Corvette / Porsche) on 4-Post Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (116\" / 9.7 ft), ACI 318 concrete slab thickness (4.0\" @ 3,000 PSI), 70 ft-lb anchor torque, and 240V 30A breaker for Stacking Two Sports Cars (Corvette / Porsche) on 4-Post Lift.",
+    "cap_lbs": 8000,
+    "ceil_ft": 9.7,
+    "slab_in": 4.0,
+    "trq": 70,
+    "date": "2026-11-14"
+  },
+  {
+    "lift_name": "Stacking SUV Under Sedan on 4-Post Garage Storage Lift",
+    "slug": "stacking-suv-under-sedan-on-4-post-garage-storage-lift-slab-clearance-calculator",
+    "title": "Stacking SUV Under Sedan on 4-Post Garage Storage Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (134\" / 11.2 ft), ACI 318 concrete slab thickness (4.0\" @ 3,000 PSI), 75 ft-lb anchor torque, and 240V 30A breaker for Stacking SUV Under Sedan on 4-Post Garage Storage Lift.",
+    "cap_lbs": 9000,
+    "ceil_ft": 11.2,
+    "slab_in": 4.0,
+    "trq": 75,
+    "date": "2026-11-14"
+  },
+  {
+    "lift_name": "240V 3-HP Car Lift Hydraulic Power Unit Breaker & Wire",
+    "slug": "240v-3-hp-car-lift-hydraulic-power-unit-breaker-wire-slab-clearance-calculator",
+    "title": "240V 3-HP Car Lift Hydraulic Power Unit Breaker & Wire Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (144\" / 12.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for 240V 3-HP Car Lift Hydraulic Power Unit Breaker & Wire.",
+    "cap_lbs": 10000,
+    "ceil_ft": 12.0,
+    "slab_in": 4.25,
+    "trq": 90,
+    "date": "2026-11-14"
   }
 ]
