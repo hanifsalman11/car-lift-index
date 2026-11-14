@@ -229,5 +229,38 @@
     "slab_in": 4.0,
     "trq": 90,
     "date": "2026-11-13"
+  },
+  {
+    "lift_name": "11-Foot (132-Inch) Garage Ceiling 4-Post Double-Stacking",
+    "slug": "11-foot-132-inch-garage-ceiling-4-post-double-stacking-slab-clearance-calculator",
+    "title": "11-Foot (132-Inch) Garage Ceiling 4-Post Double-Stacking Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (132\" / 11.0 ft), ACI 318 concrete slab thickness (4.0\" @ 3,000 PSI), 75 ft-lb anchor torque, and 240V 30A breaker for 11-Foot (132-Inch) Garage Ceiling 4-Post Double-Stacking.",
+    "cap_lbs": 8000,
+    "ceil_ft": 11.0,
+    "slab_in": 4.0,
+    "trq": 75,
+    "date": "2026-11-14"
+  },
+  {
+    "lift_name": "12-Foot (144-Inch) Garage Ceiling Overhead Clearfloor Lift",
+    "slug": "12-foot-144-inch-garage-ceiling-overhead-clearfloor-lift-slab-clearance-calculator",
+    "title": "12-Foot (144-Inch) Garage Ceiling Overhead Clearfloor Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (144\" / 12.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 95 ft-lb anchor torque, and 240V 30A breaker for 12-Foot (144-Inch) Garage Ceiling Overhead Clearfloor Lift.",
+    "cap_lbs": 10000,
+    "ceil_ft": 12.0,
+    "slab_in": 4.25,
+    "trq": 95,
+    "date": "2026-11-14"
+  },
+  {
+    "lift_name": "14-Foot (168-Inch) Pole Barn Ceiling Crew-Cab Truck Lift",
+    "slug": "14-foot-168-inch-pole-barn-ceiling-crew-cab-truck-lift-slab-clearance-calculator",
+    "title": "14-Foot (168-Inch) Pole Barn Ceiling Crew-Cab Truck Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (168\" / 14.0 ft), ACI 318 concrete slab thickness (6.0\" @ 3,500 PSI), 110 ft-lb anchor torque, and 240V 30A breaker for 14-Foot (168-Inch) Pole Barn Ceiling Crew-Cab Truck Lift.",
+    "cap_lbs": 12000,
+    "ceil_ft": 14.0,
+    "slab_in": 6.0,
+    "trq": 110,
+    "date": "2026-11-14"
   }
 ]
