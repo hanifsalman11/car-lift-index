@@ -361,5 +361,38 @@
     "slab_in": 4.25,
     "trq": 90,
     "date": "2026-11-15"
+  },
+  {
+    "lift_name": "Ceiling Height  Car Lift In Garage",
+    "slug": "ceiling-height-car-lift-in-garage-slab-clearance-calculator",
+    "title": "Ceiling Height  Car Lift In Garage Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (132\" / 11.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for Ceiling Height  Car Lift In Garage.",
+    "cap_lbs": 9000,
+    "ceil_ft": 11.0,
+    "slab_in": 4.25,
+    "trq": 90,
+    "date": "2026-11-15"
+  },
+  {
+    "lift_name": "What'S The Minimum Height  A Car Lift",
+    "slug": "whats-the-minimum-height-a-car-lift-slab-clearance-calculator",
+    "title": "What'S The Minimum Height  A Car Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (132\" / 11.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for What'S The Minimum Height  A Car Lift.",
+    "cap_lbs": 9000,
+    "ceil_ft": 11.0,
+    "slab_in": 4.25,
+    "trq": 90,
+    "date": "2026-11-15"
+  },
+  {
+    "lift_name": "Recommended Ceiling Height  Car Lift",
+    "slug": "recommended-ceiling-height-car-lift-slab-clearance-calculator",
+    "title": "Recommended Ceiling Height  Car Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (132\" / 11.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for Recommended Ceiling Height  Car Lift.",
+    "cap_lbs": 9000,
+    "ceil_ft": 11.0,
+    "slab_in": 4.25,
+    "trq": 90,
+    "date": "2026-11-15"
   }
 ]
