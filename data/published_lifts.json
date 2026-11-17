@@ -460,5 +460,38 @@
     "slab_in": 4.25,
     "trq": 90,
     "date": "2026-11-16"
+  },
+  {
+    "lift_name": "Concrete Thickness  Two Post Lift",
+    "slug": "concrete-thickness-two-post-lift-slab-clearance-calculator",
+    "title": "Concrete Thickness  Two Post Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (132\" / 11.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for Concrete Thickness  Two Post Lift.",
+    "cap_lbs": 9000,
+    "ceil_ft": 11.0,
+    "slab_in": 4.25,
+    "trq": 90,
+    "date": "2026-11-17"
+  },
+  {
+    "lift_name": "Concrete Thickness  2 Post Hoist",
+    "slug": "concrete-thickness-2-post-hoist-slab-clearance-calculator",
+    "title": "Concrete Thickness  2 Post Hoist Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (132\" / 11.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for Concrete Thickness  2 Post Hoist.",
+    "cap_lbs": 9000,
+    "ceil_ft": 11.0,
+    "slab_in": 4.25,
+    "trq": 90,
+    "date": "2026-11-17"
+  },
+  {
+    "lift_name": "Minimum Concrete Thickness  2 Post Lift",
+    "slug": "minimum-concrete-thickness-2-post-lift-slab-clearance-calculator",
+    "title": "Minimum Concrete Thickness  2 Post Lift Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (132\" / 11.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for Minimum Concrete Thickness  2 Post Lift.",
+    "cap_lbs": 9000,
+    "ceil_ft": 11.0,
+    "slab_in": 4.25,
+    "trq": 90,
+    "date": "2026-11-17"
   }
 ]
