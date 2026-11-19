@@ -592,5 +592,38 @@
     "slab_in": 4.25,
     "trq": 90,
     "date": "2026-11-18"
+  },
+  {
+    "lift_name": "Bendpak 2 Post Lift Height",
+    "slug": "bendpak-2-post-lift-height-slab-clearance-calculator",
+    "title": "Bendpak 2 Post Lift Height Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (132\" / 11.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for Bendpak 2 Post Lift Height.",
+    "cap_lbs": 9000,
+    "ceil_ft": 11.0,
+    "slab_in": 4.25,
+    "trq": 90,
+    "date": "2026-11-19"
+  },
+  {
+    "lift_name": "Bendpak 2 Post Lift Concrete Requirements",
+    "slug": "bendpak-2-post-lift-concrete-requirements-slab-clearance-calculator",
+    "title": "Bendpak 2 Post Lift Concrete Requirements Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (132\" / 11.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for Bendpak 2 Post Lift Concrete Requirements.",
+    "cap_lbs": 9000,
+    "ceil_ft": 11.0,
+    "slab_in": 4.25,
+    "trq": 90,
+    "date": "2026-11-19"
+  },
+  {
+    "lift_name": "Bendpak 2 Post Lift Width",
+    "slug": "bendpak-2-post-lift-width-slab-clearance-calculator",
+    "title": "Bendpak 2 Post Lift Width Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (132\" / 11.0 ft), ACI 318 concrete slab thickness (4.25\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for Bendpak 2 Post Lift Width.",
+    "cap_lbs": 9000,
+    "ceil_ft": 11.0,
+    "slab_in": 4.25,
+    "trq": 90,
+    "date": "2026-11-19"
   }
 ]
