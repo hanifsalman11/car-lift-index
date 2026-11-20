@@ -636,5 +636,16 @@
     "slab_in": 4.0,
     "trq": 85,
     "date": "2026-11-19"
+  },
+  {
+    "lift_name": "7,000-Lb Low-Ceiling 2-Post Lift in 9.5-Ft (114\") Garage Ceiling",
+    "slug": "7000-lb-low-ceiling-2-post-lift-in-95-ft-114-garage-ceiling-slab-clearance-calculator",
+    "title": "7,000-Lb Low-Ceiling 2-Post Lift in 9.5-Ft (114\") Garage Ceiling Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (114\" / 9.5 ft), ACI 318 concrete slab thickness (4.0\" @ 3,000 PSI), 85 ft-lb anchor torque, and 240V 30A breaker for 7,000-Lb Low-Ceiling 2-Post Lift in 9.5-Ft (114\") Garage Ceiling.",
+    "cap_lbs": 7000,
+    "ceil_ft": 9.5,
+    "slab_in": 4.0,
+    "trq": 85,
+    "date": "2026-11-20"
   }
 ]
