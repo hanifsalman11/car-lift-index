@@ -691,5 +691,16 @@
     "slab_in": 4.0,
     "trq": 85,
     "date": "2026-11-22"
+  },
+  {
+    "lift_name": "8,000-Lb 4-Post Double-Stack Lift in 9-Ft (108\") Garage Ceiling",
+    "slug": "8000-lb-4-post-double-stack-lift-in-9-ft-108-garage-ceiling-slab-clearance-calculator",
+    "title": "8,000-Lb 4-Post Double-Stack Lift in 9-Ft (108\") Garage Ceiling Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (108\" / 9.0 ft), ACI 318 concrete slab thickness (4.0\" @ 3,000 PSI), 75 ft-lb anchor torque, and 240V 30A breaker for 8,000-Lb 4-Post Double-Stack Lift in 9-Ft (108\") Garage Ceiling.",
+    "cap_lbs": 8000,
+    "ceil_ft": 9.0,
+    "slab_in": 4.0,
+    "trq": 75,
+    "date": "2026-11-22"
   }
 ]
