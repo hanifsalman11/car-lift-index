@@ -746,5 +746,16 @@
     "slab_in": 4.0,
     "trq": 75,
     "date": "2026-11-24"
+  },
+  {
+    "lift_name": "8,000-Lb 4-Post Double-Stack Lift in 14-Ft (168\") Pole Barn Ceiling",
+    "slug": "8000-lb-4-post-double-stack-lift-in-14-ft-168-pole-barn-ceiling-slab-clearance-calculator",
+    "title": "8,000-Lb 4-Post Double-Stack Lift in 14-Ft (168\") Pole Barn Ceiling Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (168\" / 14.0 ft), ACI 318 concrete slab thickness (4.0\" @ 3,000 PSI), 75 ft-lb anchor torque, and 240V 30A breaker for 8,000-Lb 4-Post Double-Stack Lift in 14-Ft (168\") Pole Barn Ceiling.",
+    "cap_lbs": 8000,
+    "ceil_ft": 14.0,
+    "slab_in": 4.0,
+    "trq": 75,
+    "date": "2026-11-25"
   }
 ]
