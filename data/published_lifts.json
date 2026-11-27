@@ -812,5 +812,16 @@
     "slab_in": 4.0,
     "trq": 90,
     "date": "2026-11-26"
+  },
+  {
+    "lift_name": "9,000-Lb Baseplate 2-Post Lift in 11-Ft (132\") Garage Ceiling",
+    "slug": "9000-lb-baseplate-2-post-lift-in-11-ft-132-garage-ceiling-slab-clearance-calculator",
+    "title": "9,000-Lb Baseplate 2-Post Lift in 11-Ft (132\") Garage Ceiling Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (132\" / 11.0 ft), ACI 318 concrete slab thickness (4.0\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for 9,000-Lb Baseplate 2-Post Lift in 11-Ft (132\") Garage Ceiling.",
+    "cap_lbs": 9000,
+    "ceil_ft": 11.0,
+    "slab_in": 4.0,
+    "trq": 90,
+    "date": "2026-11-27"
   }
 ]
