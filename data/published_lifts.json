@@ -834,5 +834,16 @@
     "slab_in": 4.0,
     "trq": 90,
     "date": "2026-11-27"
+  },
+  {
+    "lift_name": "9,000-Lb Baseplate 2-Post Lift in 14-Ft (168\") Pole Barn Ceiling",
+    "slug": "9000-lb-baseplate-2-post-lift-in-14-ft-168-pole-barn-ceiling-slab-clearance-calculator",
+    "title": "9,000-Lb Baseplate 2-Post Lift in 14-Ft (168\") Pole Barn Ceiling Ceiling Height, Concrete Slab & Breaker Calculator (2026)",
+    "description": "Calculate exact garage ceiling clearance (168\" / 14.0 ft), ACI 318 concrete slab thickness (4.0\" @ 3,000 PSI), 90 ft-lb anchor torque, and 240V 30A breaker for 9,000-Lb Baseplate 2-Post Lift in 14-Ft (168\") Pole Barn Ceiling.",
+    "cap_lbs": 9000,
+    "ceil_ft": 14.0,
+    "slab_in": 4.0,
+    "trq": 90,
+    "date": "2026-11-28"
   }
 ]
